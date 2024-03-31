@@ -4,12 +4,10 @@ weight: 4
 header_menu: true
 ---
 
-{{<contact_list>}}
-
 {{< rawhtml >}}
 
 <!-- insert images like this -->
-            <div class="col-md-2">
+            <!-- div class="col-md-2">
                 <a class="fancybox" rel="group" href="gallery/IMG_0311.jpeg">
                     <div class="img-wrap">
                         <div class="overlay">
@@ -228,5 +226,5 @@ header_menu: true
                         <img src="gallery/small/thumb-IMG_6179.jpeg" alt=""/>
                     </div>
                 </a>
-            </div>
+            </div-->
 {{< /rawhtml >}}
