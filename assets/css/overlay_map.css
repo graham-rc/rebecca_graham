@@ -1,0 +1,8 @@
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:800px;
+   height:8000px; /* your iframe height */
+   top:800px;  /* your iframe height */
+   margin-top:-800px;  /* your iframe height */
+}

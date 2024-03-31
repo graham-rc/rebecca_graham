@@ -1,0 +1,5 @@
+baseURL = 'http://rebeccaandgraham.party/'
+languageCode = 'en-gb'
+title = 'R&G'
+theme = 'hugo-scroll'
+
