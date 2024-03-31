@@ -10,7 +10,7 @@ header_logo: "images/fancy_logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 #header_headline: "Jane Doe"
-header_subheadline: "Are having a lovely <b/>lovely</b> Party."
+header_subheadline: "Are having a lovely <b/>lovely</b> Party<br>31st May 2025"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

@@ -2,12 +2,10 @@
 title: "YHA Bracken Tor - Okehampton"
 header_menu_title: "Where"
 navigation_menu_title: "Where"
-weight: 2
+weight: 3
 header_menu: true
 ---
 
-
-Want to learn more about my services? See [dedicated page](services) with more details.
 
 [//]: # (Google API Key:  AIzaSyAb8qKD_uFHE3Nr3mGOgFpE9gx0Lid8W4A)
 

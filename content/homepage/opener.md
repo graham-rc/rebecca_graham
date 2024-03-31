@@ -1,7 +1,7 @@
 ---
 title: "Why"
 weight: 1
-height: 1000
+header_menu: true
 ---
 Rebecca and Graham are getting married on __Saturday 31st May 2025__.
 
