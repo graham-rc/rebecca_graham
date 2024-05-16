@@ -6,17 +6,17 @@ weight: 2
 header_menu: true
 ---
 
-# TBC
+To be confirmed - rough times below, check for updates closer to the day...
 
-## Ceremony - 1PM
-maybe
+## 1PM - Ceremony
+maybe?
 
-## Tea cakes - 2PM
-or something
+## 3PM - Food
+Hopefully the speeches don't last too long.
 
-## Dancing - 3PM
-wibble wobble
+## 7PM - Some sort of entertainment
+A precession of hamsters
 
-## Going to bed - 9PM
-yawn
+## 9-11PM - 80's Rock Band
+[Hairforce5](https://hairforce5.wixsite.com/rocks)
 
