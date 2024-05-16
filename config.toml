@@ -1,4 +1,4 @@
-baseURL = 'http://rebeccaandgraham.party/'
+baseURL = 'https://rebeccaandgraham.party/'
 languageCode = 'en-gb'
 title = 'R&G'
 theme = 'hugo-scroll'
