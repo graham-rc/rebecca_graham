@@ -18,5 +18,6 @@ Hopefully the speeches don't last too long.
 A precession of hamsters
 
 ## 9-11PM - 80's Rock Band
-[Hairforce5](https://hairforce5.wixsite.com/rocks)
+{{< figure src="images/hf5.png" width="200px" class="left">}}
+[Checkout the band!](https://hairforce5.wixsite.com/rocks)
 
