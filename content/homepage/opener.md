@@ -14,23 +14,29 @@ td, th {
 
 
 	<!-- HTML Meta Tags -->
-<title>Rebs&Graham</title>
-<meta name="description" content="Wedding invite">
+<!-- HTML Meta Tags -->
+<title></title>
+<meta name="description" content="Hard rock party">
 
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.rebeccaandgraham.party">
+<!-- Open Graph Meta Tags -->
+<meta property="og:url" content="http://rebeccaandgraham.party">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Rebs&Graham">
-<meta property="og:description" content="Wedding invite">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
 <meta property="og:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
+<meta property="og:image:width"" content="1674">
+<meta property="og:image:height"" content="939">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="rebeccaandgraham.party">
-<meta property="twitter:url" content="https://www.rebeccaandgraham.party">
-<meta name="twitter:title" content="Rebs&Graham">
-<meta name="twitter:description" content="Wedding invite">
+<meta property="twitter:url" content="http://rebeccaandgraham.party">
 <meta name="twitter:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
+<meta name="twitter:title" content="Party invite">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
+
+<!-- Meta Tags Generated via https://opengraph.dev -->
 
 {{< / rawhtml >}}
 
