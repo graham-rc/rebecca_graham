@@ -24,8 +24,9 @@ td, th {
 <meta property="og:title" content="Rebs&Graham">
 <meta property="og:description" content="Hard rock party">
 <meta property="og:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
-<meta property="og:image:width"" content="1674">
-<meta property="og:image:height"" content="939">
+<meta property="og:image:width" content="1674">
+<meta property="og:image:height" content="939">
+<meta property="og:logo" content="https://rebeccaandgraham.party/images/gnr.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
