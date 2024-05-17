@@ -11,6 +11,29 @@ td, th {
    border: none!important;
 }
 </style>
+
+
+	<!-- HTML Meta Tags -->
+<title>R&G</title>
+<meta name="description" content="">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://rebeccaandgraham.party">
+<meta property="og:type" content="website">
+<meta property="og:title" content="R&G">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="rebeccaandgraham.party">
+<meta property="twitter:url" content="https://rebeccaandgraham.party">
+<meta name="twitter:title" content="R&G">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
 {{< / rawhtml >}}
 
 | | |
