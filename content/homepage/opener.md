@@ -20,9 +20,9 @@ td, th {
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://rebeccaandgraham.party">
 <meta property="og:type" content="website">
-<meta property="og:title" content="R&G">
+<meta property="og:title" content="Rebs&Graham">
 <meta property="og:description" content="Wedding invite">
-<meta property="og:image" content="images/proposal.jpg">
+<meta property="og:image" content="/images/proposal.jpg">
 
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
