@@ -21,8 +21,8 @@ td, th {
 <!-- Open Graph Meta Tags -->
 <meta property="og:url" content="http://rebeccaandgraham.party">
 <meta property="og:type" content="website">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
+<meta property="og:title" content="Rebs&Graham">
+<meta property="og:description" content="Hard rock party">
 <meta property="og:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
 <meta property="og:image:width"" content="1674">
 <meta property="og:image:height"" content="939">
@@ -33,7 +33,7 @@ td, th {
 <meta property="twitter:url" content="http://rebeccaandgraham.party">
 <meta name="twitter:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
 <meta name="twitter:title" content="Party invite">
-<meta name="twitter:description" content="">
+<meta name="twitter:description" content="Wedding">
 <meta name="twitter:image" content="https://rebeccaandgraham.party/images/proposal.jpg">
 
 <!-- Meta Tags Generated via https://opengraph.dev -->
