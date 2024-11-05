@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-To be confirmed - rough times below, check for updates closer to the day...
+# This is not finalised!
 
 ## 1PM - Ceremony
 maybe?
@@ -17,7 +17,6 @@ Hopefully the speeches don't last too long.
 ## 7PM - Some sort of entertainment
 A precession of hamsters
 
-## 9-11PM - 80's Rock Band
-{{< figure src="images/hf5.png" width="200px" class="left">}}
-[Checkout the band!](https://hairforce5.wixsite.com/rocks)
+## 8ish-11ish? - 80's Rock Band
+Checkout the band: [Crazy Nights](https://www.alivenetwork.com/bandpage.asp?bandname=Crazy+Nights)
 
