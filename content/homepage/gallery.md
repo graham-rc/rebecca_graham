@@ -3,7 +3,7 @@
 title: "Pics"
 header_menu_title: "Pics"
 navigation_menu_title: "Pics"
-weight: 5
+weight: 4
 header_menu: true
 ---
 

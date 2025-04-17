@@ -2,10 +2,16 @@
 title: "YHA Bracken Tor - Okehampton"
 header_menu_title: "Where"
 navigation_menu_title: "Where"
-weight: 3
+weight: 2
 header_menu: true
 ---
 
+## NOTE: 
+There are two YHA hostels in Okehampton. The venue is YHA Bracken Tor, a little out of town. However, please park down the hill if you're able to walk 20minutes at: 
+YHA Okehampton, Klondyke Rd, Okehampton, EX20 1EW
+
+# Venue - for taxi's or later arrivers: 
+Bracken Tor, Saxongate, Okehampton, EX20 1QW
 
 [//]: # (Google API Key:  AIzaSyAb8qKD_uFHE3Nr3mGOgFpE9gx0Lid8W4A)
 

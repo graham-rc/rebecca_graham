@@ -2,7 +2,7 @@
 title: "Schedule"
 header_menu_title: "schedule"
 navigation_menu_title: "schedule"
-weight: 2
+weight: 3
 header_menu: true
 ---
 
