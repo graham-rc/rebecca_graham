@@ -1,22 +1,30 @@
 ---
 title: "Schedule"
-header_menu_title: "When"
-navigation_menu_title: "When"
+header_menu_title: "schedule"
+navigation_menu_title: "schedule"
 weight: 2
 header_menu: true
 ---
 
-# This is not finalised!
+## 11AM - Arrival
+Note: There isn't loads of parking on site, most people will need to park at the YHA at Okehampton station, drive into the station car park and follow sign to Hostel Parking. This is a 20 minute walk from the venue.
 
-## 1PM - Ceremony
-maybe?
+## Midday - Ceremony
+Do you? Yes of course.
 
-## 3PM - Food
+## 2-5PM - Food and blathering on
 Hopefully the speeches don't last too long.
 
-## 7PM - Some sort of entertainment
-A precession of hamsters
+## 5PM-8:30PM - Tunes & beers & chatting
+There's loads of space to mess around on-site.
 
-## 8ish-11ish? - 80's Rock Band
+## Additional food
+Doughnuts instead of a cake.  
+For hungry people, there will be pasties at some point in the evening.
+
+## 8:30-11PM - 80's Rock Band
 Checkout the band: [Crazy Nights](https://www.alivenetwork.com/bandpage.asp?bandname=Crazy+Nights)
+
+## 11PM - Afterparty?
+Tunes in one of the houses
 
