@@ -23,7 +23,7 @@ $( document ).ready(function() {
 			$a 		= $figure.find('a'),
 			$img 	= $figure.find('img'),
 			$src	= $a.attr('href'),
-			$title  = $img.attr('alt'),
+			$title  = '',
 			$msrc	= $img.attr('src');
 		// if data-size on <a> tag is set, read it and create an item
 		if ($a.data('size')) {
