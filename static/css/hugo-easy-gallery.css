@@ -10,7 +10,7 @@ Grid Layout Styles
 .gallery {
     overflow: hidden;
     margin: 10px;
-    max-width: 768px;
+    max-width: 1200px;
 }
 .gallery .box {
     float: left;
@@ -33,7 +33,7 @@ Grid Layout Styles
         padding-bottom: 33.3%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
+@media only screen and (min-width : 860px) {
    /* Medium desktop: 4 tiles */
    .box {
       width: 25%;
@@ -107,54 +107,4 @@ figure a {
     top: 0;
     bottom: 0;
 }
-
-/*
-figcaption styles
-*/
-.gallery figcaption,
-.fancy-figure figcaption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: #000;
-    color: #FFF;
-    text-align: center;
-    font-size: 75%; /* change this if you want bigger text */
-    background: rgba(0, 0, 0, 0.5);
-    opacity: 1;
-    cursor: pointer;
-}
-.gallery.caption-position-none figcaption,
-.fancy-figure.caption-position-none figcaption  {
-    display: none;
-}
-.gallery.caption-position-center figcaption,
-.fancy-figure.caption-position-center figcaption {
-    top: 0;
-    padding: 40% 5px;
-}
-.gallery.caption-position-bottom figcaption,
-.fancy-figure.caption-position-bottom figcaption {
-    padding: 5px;
-}
-.gallery.caption-effect-fade figure:not(:hover) figcaption,
-.gallery.caption-effect-appear figure:not(:hover) figcaption,
-.fancy-figure.caption-effect-fade figure:not(:hover) figcaption,
-.fancy-figure.caption-effect-appear figure:not(:hover) figcaption {
-    background: rgba(0, 0, 0, 0);
-    opacity: 0;
-}
-.gallery.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption,
-.fancy-figure.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption {
-    margin-bottom: -100%;
-}
-.gallery.caption-effect-slide.caption-position-center figure:not(:hover) figcaption,
-.fancy-figure.caption-effect-slide.caption-position-center figure:not(:hover) figcaption  {
-    top: 100%;
-}
-figcaption p {
-    margin: auto; /* override style in theme */
-}
-
 
